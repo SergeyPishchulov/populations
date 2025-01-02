@@ -1,3 +1,9 @@
+02.01.2025
+
 Все характеристики по ОКТМО - https://drive.google.com/drive/folders/1WxMMqMdb7ZQ0EKelXuF9c7OgFnPBEZ7J
 (статистика среды)
+
+Не удалось найти распределение по полу, возрасту, для каждого города. Нашели только для района. - https://rosstat.gov.ru/dbscripts/munst/munst41/DBInet.cgi
+Есть в migration/ITMO-2/popsize/data0.xlsx
+Для первого шага сделаем предположение о том, что распредления внутри городов района одинаковые.
 

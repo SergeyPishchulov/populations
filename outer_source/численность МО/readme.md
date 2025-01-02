@@ -1,0 +1,1 @@
+https://rosstat.gov.ru/storage/mediabank/Сhisl_MO_01-01-2024.xlsx
